@@ -1,0 +1,25 @@
+
+h1{
+  font-style: italic;
+  font-family: fantasy;
+  text-align: center;
+  font-size: 50pt;
+  color: white;
+}
+.Menu{
+  color: #6573f2;
+  margin-left: 30%;
+
+}
+#nav{
+  margin-top: 20%;
+  font-size: 30pt;
+}
+body{
+  background-color: black;
+  background-image: url("https://vignette3.wikia.nocookie.net/middleearthshadowofmordor7723/images/a/a3/Mt_doon_08.jpg/revision/latest?cb=20140522192028");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+}
